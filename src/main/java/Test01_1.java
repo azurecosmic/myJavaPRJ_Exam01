@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test01 {
+public class Test01_1 {
     public static void main(String[] args) {
         // a b 가 주어지고
         // ab를 비교

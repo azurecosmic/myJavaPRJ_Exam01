@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Test02 {
+public class Test01_2 {
     public static void main(String[] args) {
         /*
         윤년이면 1, 아니면 0
